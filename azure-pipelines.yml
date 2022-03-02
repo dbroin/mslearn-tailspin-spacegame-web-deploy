@@ -1,5 +1,6 @@
-trigger:
+git pushtrigger:
 - '*'
+
 
 pool:
   vmImage: 'ubuntu-20.04'
