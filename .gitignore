@@ -5,6 +5,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Darrin
+*.vscode
+edgedriver_win64.zip
+
+
 # User-specific files
 *.suo
 *.user
